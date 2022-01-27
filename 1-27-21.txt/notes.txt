@@ -1,0 +1,5 @@
+- Software needs to:
+    - do what it's supposed to do
+    - not take too long
+    - be secure
+    - have good user interface
