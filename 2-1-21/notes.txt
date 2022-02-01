@@ -1,0 +1,4 @@
+- When working on software, it's important to periodically check in with user
+- Start work on the part of the project that scares you
+- Divide projects into independent parts
+- Use interfaces as much as possible
