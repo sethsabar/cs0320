@@ -1,0 +1,2 @@
+- Use interfaces when one part of a project relies on another (dependency injection)
+- 
