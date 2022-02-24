@@ -1,3 +1,2 @@
 - Use interfaces when one part of a project relies on another (dependency injection)
 - Testing coverage is the precentage of your code that is covered by tests
-- 
